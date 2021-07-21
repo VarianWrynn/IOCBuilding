@@ -1,0 +1,15 @@
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\bin\Debug\netcoreapp3.1\IOCBuilding.exe
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\bin\Debug\netcoreapp3.1\IOCBuilding.deps.json
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\bin\Debug\netcoreapp3.1\IOCBuilding.runtimeconfig.json
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\bin\Debug\netcoreapp3.1\IOCBuilding.runtimeconfig.dev.json
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\bin\Debug\netcoreapp3.1\IOCBuilding.dll
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\bin\Debug\netcoreapp3.1\IOCBuilding.pdb
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\obj\Debug\netcoreapp3.1\IOCBuilding.csprojAssemblyReference.cache
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\obj\Debug\netcoreapp3.1\IOCBuilding.AssemblyInfoInputs.cache
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\obj\Debug\netcoreapp3.1\IOCBuilding.AssemblyInfo.cs
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\obj\Debug\netcoreapp3.1\IOCBuilding.csproj.CoreCompileInputs.cache
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\obj\Debug\netcoreapp3.1\IOCBuilding.csproj.CopyComplete
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\obj\Debug\netcoreapp3.1\IOCBuilding.dll
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\obj\Debug\netcoreapp3.1\IOCBuilding.pdb
+F:\Lee\Githubs\IOCBuilding\IOCBuilding\obj\Debug\netcoreapp3.1\IOCBuilding.genruntimeconfig.cache
